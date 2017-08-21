@@ -28,19 +28,19 @@ background-image:url(../img/logo-blocnote.png);
 .encadre-note div
 {border:2px solid #fbb900;	}
 
-.encadre-lesaviez
+.encadre-vert
 {
 background-image:url(../img/logo-question.png);
 }
-.encadre-lesaviez div
+.encadre-vert div
 {border:2px solid #76b82a;	}
 
 
-.encadre-misengarde
+.encadre-rouge
 {
 background-image:url(../img/logo-attention.png);
 }
-.encadre-misengarde div
+.encadre-rouge div
 {border:2px solid #e30613;	}
 
 .encadre-bleu
