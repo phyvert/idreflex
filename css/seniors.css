@@ -1,0 +1,274 @@
+
+span.italique {
+	font-style:italic;
+	font-weight:normal;
+}
+span.medium-noir {
+	font-style:normal;
+	font-weight:normal;
+}
+
+p.ParaOverride-1 {
+	margin-bottom:4px;
+	margin-top:14px;
+	text-align:center;
+}
+p.ParaOverride-2 {
+	margin-top:3px;
+}
+p.ParaOverride-3 {
+	text-align:center;
+}
+p.ParaOverride-4 {
+	margin-top:4px;
+	text-align:center;
+}
+p.ParaOverride-5 {
+	margin-top:6px;
+}
+p.ParaOverride-6 {
+	margin-top:7px;
+}
+p.ParaOverride-7 {
+	margin-bottom:3px;
+}
+p.ParaOverride-8 {
+	margin-top:4px;
+}
+p.ParaOverride-9 {
+	margin-top:11px;
+}
+p.ParaOverride-10 {
+	margin-bottom:2px;
+	margin-top:5px;
+}
+p.ParaOverride-11 {
+	margin-top:1px;
+}
+p.ParaOverride-12 {
+	margin-top:12px;
+}
+p.ParaOverride-13 {
+	margin-top:2px;
+}
+p.ParaOverride-14 {
+	margin-top:10px;
+}
+p.ParaOverride-15 {
+	margin-bottom:4px;
+	margin-top:9px;
+}
+p.ParaOverride-16 {
+	margin-bottom:6px;
+	margin-top:3px;
+}
+p.ParaOverride-17 {
+	margin-left:14px;
+	text-indent:-6px;
+}
+p.ParaOverride-18 {
+	margin-bottom:3px;
+	text-align:center;
+}
+p.ParaOverride-19 {
+	margin-left:9px;
+	text-indent:-9px;
+}
+p.ParaOverride-20 {
+	margin-bottom:4px;
+}
+p.ParaOverride-21 {
+	margin-left:108px;
+}
+p.ParaOverride-22 {
+	text-align:right;
+}
+p.ParaOverride-23 {
+	margin-bottom:1px;
+	margin-top:1px;
+}
+p.ParaOverride-24 {
+	margin-left:14px;
+	margin-top:2px;
+	text-indent:-6px;
+}
+p.ParaOverride-25 {
+	margin-left:20px;
+	margin-top:1px;
+	text-indent:-20px;
+}
+p.ParaOverride-26 {
+	margin-top:7px;
+	text-align:center;
+}
+p.ParaOverride-27 {
+	-epub-hyphens:none;
+	text-align:center;
+}
+span.CharOverride-1 {
+	color:#ffffff;
+	font-family:"Avenir Medium", sans-serif;
+	font-size:9px;
+	font-style:normal;
+	font-weight:500;
+}
+span.CharOverride-2 {
+	color:#c20e1a;
+}
+span.CharOverride-3 {
+	color:#469da8;
+}
+span.CharOverride-4 {
+	color:#8cb63c;
+}
+span.CharOverride-5 {
+	color:#6f6f6e;
+	font-family:"ITC Franklin Gothic LT Book Condensed", sans-serif;
+	font-size:9px;
+	font-style:normal;
+	font-weight:normal;
+}
+span.CharOverride-6 {
+	color:#9c9b9b;
+	font-family:"ITC Franklin Gothic LT Book", sans-serif;
+	font-size:7px;
+	font-style:normal;
+	font-weight:normal;
+}
+span.CharOverride-7 {
+	color:#009de0;
+}
+span.CharOverride-8 {
+	color:#db8d2d;
+}
+span.CharOverride-9 {
+	color:#823888;
+}
+span.CharOverride-10 {
+	font-family:"ITC Franklin Gothic Std Bk Cp", sans-serif;
+	font-size:11px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	text-transform:uppercase;
+}
+span.CharOverride-11 {
+	font-family:"ITC Franklin Gothic Std Bk Cp", sans-serif;
+	font-size:11px;
+	font-style:normal;
+	font-weight:normal;
+}
+span.CharOverride-12 {
+	font-family:"ITC Franklin Gothic Std Bk Cp", sans-serif;
+	font-size:16px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:600;
+	text-transform:uppercase;
+}
+span.CharOverride-13 {
+	font-family:"ITC Franklin Gothic Std Bk Cp", sans-serif;
+	font-size:44px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:600;
+	text-transform:uppercase;
+}
+span.CharOverride-14 {
+	font-family:"ITC Franklin Gothic LT Demi Compressed", sans-serif;
+	font-size:10px;
+	font-style:normal;
+	font-weight:normal;
+}
+span.CharOverride-15 {
+	font-family:"ITC Franklin Gothic LT Book", sans-serif;
+	font-size:10px;
+	font-style:normal;
+	font-weight:normal;
+}
+span.CharOverride-16 {
+	font-family:"ITC Franklin Gothic LT Book Compressed", sans-serif;
+	font-size:10px;
+	font-style:normal;
+	font-weight:normal;
+}
+span.CharOverride-17 {
+	font-size:11px;
+	font-style:italic;
+	font-weight:normal;
+}
+span.CharOverride-18 {
+	font-family:"ITC Franklin Gothic Std Book", sans-serif;
+	font-size:4px;
+	font-style:normal;
+	font-weight:normal;
+}
+span.CharOverride-19 {
+	color:#ffffff;
+	font-family:"ITC Franklin Gothic Std Bk Cp", sans-serif;
+	font-size:13px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:600;
+	text-transform:uppercase;
+}
+span.CharOverride-20 {
+	color:#ffffff;
+	font-family:"Avenir Heavy", sans-serif;
+	font-size:9px;
+	font-style:normal;
+	font-weight:900;
+}
+span.CharOverride-21 {
+	color:#ffffff;
+}
+span.CharOverride-22 {
+	color:#9c9b9b;
+	font-family:"ITC Franklin Gothic LT Medium", sans-serif;
+	font-size:5px;
+	font-style:normal;
+	font-weight:normal;
+}
+span.CharOverride-23 {
+	color:#9c9b9b;
+	font-family:"ITC Franklin Gothic LT Book", sans-serif;
+	font-size:5px;
+	font-style:normal;
+	font-weight:normal;
+}
+span.CharOverride-24 {
+	font-family:"ITC Franklin Gothic LT Book", sans-serif;
+	font-size:13px;
+	font-style:normal;
+	font-weight:normal;
+}
+span.CharOverride-25 {
+	font-family:"ITC Franklin Gothic LT Book Compressed", sans-serif;
+	font-size:13px;
+	font-style:normal;
+	font-weight:normal;
+}
+span.CharOverride-26 {
+	font-family:"ITC Franklin Gothic Std Bk Cp", sans-serif;
+	font-size:24px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:600;
+	text-transform:uppercase;
+}
+span.CharOverride-27 {
+	font-family:"ITC Franklin Gothic Std Bk Cp", sans-serif;
+	font-size:63px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:600;
+	text-transform:uppercase;
+}
+span.CharOverride-28 {
+	font-family:"ITC Franklin Gothic Std Bk Cp", sans-serif;
+	font-size:13px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	text-transform:uppercase;
+}
