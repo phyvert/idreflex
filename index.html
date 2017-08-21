@@ -22,6 +22,19 @@
 </head>
 <body>
 <div id="leheader">
+<nav class="navbar navbar-default">
+  <div class="container-fluid"> 
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header">
+    
+      <a class="navbar-brand" href="#"><img src="img/logo.png" id="lelogo"></a></div>
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    <div class="collapse navbar-collapse" id="defaultNavbar1">
+    </div>
+    <!-- /.navbar-collapse --> 
+  </div>
+  <!-- /.container-fluid --> 
+</nav>
   <div class="container-fluid">
     <div class="row">
       <div class="col-md-6 col-md-offset-3">
@@ -60,7 +73,6 @@ Merci de bien vouloir vous identifier pour accéder à votre base ID'Reflex.
 <script>
 $(document).ready(function(){
     $("#submit").click(function(){
-			$("#lebouton").css("background-color","black");	
         $.post(
             'http://www.phyvert.com/idr/connexion.php', 
             {
